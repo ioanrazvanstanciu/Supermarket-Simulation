@@ -1,0 +1,1 @@
+("8.0" ta6osx ("3c7b58b62bfa0327a056c4d20b674f93f94170ae" . "f20cd21e61d85802063ef4e7c44d27551c360cfa") #"/Users/ionutstanciu/Documents/ANUL 2/SEMESTRUL 2/PP/Teme/TEMA_PP_1/Etapa 4/queue.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"match.rkt") (collects #"racket" #"runtime-config.rkt"))
